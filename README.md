@@ -1,2 +1,0 @@
-# shine
-formulário Shine
